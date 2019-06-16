@@ -1,6 +1,3 @@
-<a href='https://play.google.com/store/apps/details?id=com.cinopsys.movieshows&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/google-play-badge-small.png' height="100" width="250" /></a><br>
-Google Play and the Google Play logo are trademarks of Google LLC.
-
 # TheMovieDBApp 
 Before you continue
 ------
@@ -30,35 +27,3 @@ TO-DO's
 ---------
 * Code clean up.
 * Improve UI/UX.
-
-Screenshots
------------
-* **Fragments**<br>
-<p float="left">
-<img src="https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/Screenshots/nowshowing.jpg" alt="NowShowing" width="250dp" height="400dp">          
-<img src="https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/Screenshots/upcoming.jpg" alt="Upcoming" width="250dp" height="400dp">         
-<img src="https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/Screenshots/toprated.jpg" alt="TopRated" width="250dp" height="400dp">          
-</p>
-
-* **Details Activity**<br>
-<p float="left">
-<img src="https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/Screenshots/details1.jpg" alt="Details" width="250dp" height="400dp">          
-<img src="https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/Screenshots/details2.jpg" alt="Details" width="250dp" height="400dp">      
-<img src="https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/Screenshots/details3.jpg" alt="Details" width="250dp" height="400dp">          
-</p>
-
-* **Night mode**<br>
-<p float="left">
-<img src="https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/Screenshots/nowshowing_dark.jpg" alt="nowshowing_dark" width="250dp" height="400dp">          
-<img src="https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/Screenshots/details1_dark.jpg" alt="Details" width="250dp" height="400dp">      
-<img src="https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/Screenshots/details2_dark.jpg" alt="Details" width="250dp" height="400dp">          
-</p>
-
-* **Others**<br>
-<p float="left">
-<img src="https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/Screenshots/favourites.jpg" alt="Favourites" width="250dp" height="400dp">          
-<img src="https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/Screenshots/similar.jpg" alt="Similar" width="250dp" height="400dp">      
-<img src="https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/Screenshots/search.jpg" alt="Search" width="250dp" height="400dp"><br>
-<img src="https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/Screenshots/settings.jpg" alt="Settings" width="250dp" height="400dp">
-<img src="https://github.com/Kashish-Sharma/TheMovieDBApp/blob/master/Screenshots/chooseregion.jpg" alt="Region" width="250dp" height="400dp"><br>
-</p>
