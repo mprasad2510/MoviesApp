@@ -20,10 +20,11 @@ Before you continue
 
 Description
 ---------
-* TheMovieDBApp is movies app built with android architecture components and the repository pattern (LiveData, ViewModel, Room, Paging).<br>
+* TheMovieDBApp is movies app built with android architecture components and the repository pattern (LiveData, ViewModel, Room, Paging, Instrumentation Testing , Jacoco for code coverage).<br>
 * TheMovieDb API is used to fetch movie details.
 
 TO-DO's
 ---------
 * Code clean up.
 * Improve UI/UX.
+* Unit Testing/Functional Testing
